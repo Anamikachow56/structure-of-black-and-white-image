@@ -1,1 +1,1 @@
-# structure-of-black-and-white-image
+# This image contains the changed pixel value.
