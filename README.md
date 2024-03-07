@@ -1,0 +1,1 @@
+# structure-of-black-and-white-image
